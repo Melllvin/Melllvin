@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey, I’m Melvin<br><br>I’m a French full-stack developer passionate about building clean, efficient and purposeful applications.<br>I love working on modern web stacks, automating things that shouldn’t be manual, and crafting small tools that make life easier for others — and for myself.<br><br>🚀 What I enjoy building<br><br>⚙️ Web apps that are simple, fast and scalable<br><br>🧩 APIs & micro-services with clean architecture<br><br>📊 Automation & data workflows<br><br>🎨 Modern, responsive UIs with attention to detail<br><br>🧪 Projects that teach me something new<br><br>🛠️ Technologies I use often<br><br>JavaScript / TypeScript, Python, PHP / Symfony,<br>React, Next.js, Node.js,<br>Docker, Linux, Nginx,<br>SQL, NoSQL, Redis<br><br>📌 Goals<br><br>Improve my expertise in full-stack development<br><br>Build open-source projects that are actually useful<br><br>Keep learning: AI, DevOps, networking, security, and more<br><br>📫 Contact<br><br>Feel free to reach out — I love discussing projects and ideas!
+👋 Hey, I’m Melvin<br><br>I’m a French full-stack developer passionate about building clean, efficient and purposeful applications.
 
 
 ## 🌐 Socials:
